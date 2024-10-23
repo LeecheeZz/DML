@@ -1,0 +1,331 @@
+{'satellite': 701, 'street': 701, 'drone': 701}
+Epoch 0/199
+----------
+train Loss: 13.0585 Cls_Loss:13.0585 KL_Loss:0.0000 Triplet_Loss 0.0000 Satellite_Acc: 0.0000  Drone_Acc: 0.0000
+Training complete in 0m 24s
+Epoch 1/199
+----------
+train Loss: 12.3547 Cls_Loss:12.3491 KL_Loss:0.0055 Triplet_Loss 0.0000 Satellite_Acc: 0.0132  Drone_Acc: 0.0093
+Training complete in 0m 47s
+Epoch 2/199
+----------
+train Loss: 10.9914 Cls_Loss:10.9696 KL_Loss:0.0218 Triplet_Loss 0.0000 Satellite_Acc: 0.0838  Drone_Acc: 0.0332
+Training complete in 1m 10s
+Epoch 3/199
+----------
+train Loss: 9.2866 Cls_Loss:9.2359 KL_Loss:0.0507 Triplet_Loss 0.0000 Satellite_Acc: 0.2750  Drone_Acc: 0.1145
+Training complete in 1m 33s
+Epoch 4/199
+----------
+train Loss: 7.7281 Cls_Loss:7.6279 KL_Loss:0.1003 Triplet_Loss 0.0000 Satellite_Acc: 0.5136  Drone_Acc: 0.2357
+Training complete in 1m 56s
+Epoch 5/199
+----------
+train Loss: 6.2398 Cls_Loss:6.0789 KL_Loss:0.1610 Triplet_Loss 0.0000 Satellite_Acc: 0.7215  Drone_Acc: 0.3802
+Training complete in 2m 20s
+Epoch 6/199
+----------
+train Loss: 5.1268 Cls_Loss:4.8875 KL_Loss:0.2393 Triplet_Loss 0.0000 Satellite_Acc: 0.8302  Drone_Acc: 0.4914
+Training complete in 2m 43s
+Epoch 7/199
+----------
+train Loss: 4.1304 Cls_Loss:3.8109 KL_Loss:0.3194 Triplet_Loss 0.0000 Satellite_Acc: 0.8923  Drone_Acc: 0.6234
+Training complete in 3m 6s
+Epoch 8/199
+----------
+train Loss: 3.4077 Cls_Loss:2.9901 KL_Loss:0.4176 Triplet_Loss 0.0000 Satellite_Acc: 0.9376  Drone_Acc: 0.7158
+Training complete in 3m 30s
+Epoch 9/199
+----------
+train Loss: 2.8849 Cls_Loss:2.3823 KL_Loss:0.5027 Triplet_Loss 0.0000 Satellite_Acc: 0.9565  Drone_Acc: 0.7650
+Training complete in 3m 53s
+Epoch 10/199
+----------
+train Loss: 2.5659 Cls_Loss:1.9774 KL_Loss:0.5886 Triplet_Loss 0.0000 Satellite_Acc: 0.9700  Drone_Acc: 0.7964
+Training complete in 4m 16s
+Epoch 11/199
+----------
+train Loss: 2.3200 Cls_Loss:1.6463 KL_Loss:0.6737 Triplet_Loss 0.0000 Satellite_Acc: 0.9718  Drone_Acc: 0.8395
+Training complete in 4m 39s
+Epoch 12/199
+----------
+train Loss: 2.1559 Cls_Loss:1.4031 KL_Loss:0.7528 Triplet_Loss 0.0000 Satellite_Acc: 0.9750  Drone_Acc: 0.8745
+Training complete in 5m 2s
+Epoch 13/199
+----------
+train Loss: 2.1234 Cls_Loss:1.2954 KL_Loss:0.8279 Triplet_Loss 0.0000 Satellite_Acc: 0.9790  Drone_Acc: 0.8837
+Training complete in 5m 25s
+Epoch 14/199
+----------
+train Loss: 2.0465 Cls_Loss:1.1552 KL_Loss:0.8914 Triplet_Loss 0.0000 Satellite_Acc: 0.9765  Drone_Acc: 0.8912
+Training complete in 5m 48s
+Epoch 15/199
+----------
+train Loss: 2.0054 Cls_Loss:1.0638 KL_Loss:0.9417 Triplet_Loss 0.0000 Satellite_Acc: 0.9815  Drone_Acc: 0.9041
+Training complete in 6m 10s
+Epoch 16/199
+----------
+train Loss: 1.9217 Cls_Loss:0.9426 KL_Loss:0.9791 Triplet_Loss 0.0000 Satellite_Acc: 0.9768  Drone_Acc: 0.9215
+Training complete in 6m 33s
+Epoch 17/199
+----------
+train Loss: 1.9769 Cls_Loss:0.9356 KL_Loss:1.0413 Triplet_Loss 0.0000 Satellite_Acc: 0.9807  Drone_Acc: 0.9194
+Training complete in 6m 56s
+Epoch 18/199
+----------
+train Loss: 1.9889 Cls_Loss:0.9102 KL_Loss:1.0787 Triplet_Loss 0.0000 Satellite_Acc: 0.9825  Drone_Acc: 0.9187
+Training complete in 7m 19s
+Epoch 19/199
+----------
+train Loss: 1.9665 Cls_Loss:0.8570 KL_Loss:1.1095 Triplet_Loss 0.0000 Satellite_Acc: 0.9793  Drone_Acc: 0.9333
+Training complete in 7m 41s
+Epoch 20/199
+----------
+train Loss: 1.9973 Cls_Loss:0.8471 KL_Loss:1.1502 Triplet_Loss 0.0000 Satellite_Acc: 0.9811  Drone_Acc: 0.9340
+Training complete in 8m 4s
+Epoch 21/199
+----------
+train Loss: 1.9092 Cls_Loss:0.7473 KL_Loss:1.1619 Triplet_Loss 0.0000 Satellite_Acc: 0.9829  Drone_Acc: 0.9447
+Training complete in 8m 27s
+Epoch 22/199
+----------
+train Loss: 1.9411 Cls_Loss:0.7590 KL_Loss:1.1821 Triplet_Loss 0.0000 Satellite_Acc: 0.9811  Drone_Acc: 0.9412
+Training complete in 8m 50s
+Epoch 23/199
+----------
+train Loss: 2.0085 Cls_Loss:0.7880 KL_Loss:1.2204 Triplet_Loss 0.0000 Satellite_Acc: 0.9825  Drone_Acc: 0.9458
+Training complete in 9m 12s
+Epoch 24/199
+----------
+train Loss: 2.0078 Cls_Loss:0.7629 KL_Loss:1.2449 Triplet_Loss 0.0000 Satellite_Acc: 0.9836  Drone_Acc: 0.9387
+Training complete in 9m 35s
+Epoch 25/199
+----------
+train Loss: 1.9830 Cls_Loss:0.7321 KL_Loss:1.2509 Triplet_Loss 0.0000 Satellite_Acc: 0.9850  Drone_Acc: 0.9469
+Training complete in 9m 58s
+Epoch 26/199
+----------
+train Loss: 1.9856 Cls_Loss:0.7122 KL_Loss:1.2734 Triplet_Loss 0.0000 Satellite_Acc: 0.9825  Drone_Acc: 0.9533
+Training complete in 10m 20s
+Epoch 27/199
+----------
+train Loss: 1.9295 Cls_Loss:0.6670 KL_Loss:1.2626 Triplet_Loss 0.0000 Satellite_Acc: 0.9854  Drone_Acc: 0.9597
+Training complete in 10m 43s
+Epoch 28/199
+----------
+train Loss: 1.9699 Cls_Loss:0.6855 KL_Loss:1.2844 Triplet_Loss 0.0000 Satellite_Acc: 0.9850  Drone_Acc: 0.9608
+Training complete in 11m 5s
+Epoch 29/199
+----------
+train Loss: 2.0022 Cls_Loss:0.6996 KL_Loss:1.3026 Triplet_Loss 0.0000 Satellite_Acc: 0.9818  Drone_Acc: 0.9608
+Training complete in 11m 28s
+Epoch 30/199
+----------
+train Loss: 1.9579 Cls_Loss:0.6663 KL_Loss:1.2916 Triplet_Loss 0.0000 Satellite_Acc: 0.9875  Drone_Acc: 0.9597
+Training complete in 11m 51s
+Epoch 31/199
+----------
+train Loss: 1.9926 Cls_Loss:0.6721 KL_Loss:1.3205 Triplet_Loss 0.0000 Satellite_Acc: 0.9857  Drone_Acc: 0.9650
+Training complete in 12m 14s
+Epoch 32/199
+----------
+train Loss: 1.9933 Cls_Loss:0.6735 KL_Loss:1.3198 Triplet_Loss 0.0000 Satellite_Acc: 0.9875  Drone_Acc: 0.9615
+Training complete in 12m 36s
+Epoch 33/199
+----------
+train Loss: 1.9816 Cls_Loss:0.6640 KL_Loss:1.3176 Triplet_Loss 0.0000 Satellite_Acc: 0.9832  Drone_Acc: 0.9650
+Training complete in 12m 59s
+Epoch 34/199
+----------
+train Loss: 1.9871 Cls_Loss:0.6598 KL_Loss:1.3273 Triplet_Loss 0.0000 Satellite_Acc: 0.9832  Drone_Acc: 0.9643
+Training complete in 13m 22s
+Epoch 35/199
+----------
+train Loss: 1.9691 Cls_Loss:0.6448 KL_Loss:1.3243 Triplet_Loss 0.0000 Satellite_Acc: 0.9868  Drone_Acc: 0.9650
+Training complete in 13m 44s
+Epoch 36/199
+----------
+train Loss: 2.0161 Cls_Loss:0.6655 KL_Loss:1.3507 Triplet_Loss 0.0000 Satellite_Acc: 0.9850  Drone_Acc: 0.9708
+Training complete in 14m 7s
+Epoch 37/199
+----------
+train Loss: 2.0013 Cls_Loss:0.6515 KL_Loss:1.3498 Triplet_Loss 0.0000 Satellite_Acc: 0.9875  Drone_Acc: 0.9686
+Training complete in 14m 29s
+Epoch 38/199
+----------
+train Loss: 2.0358 Cls_Loss:0.6873 KL_Loss:1.3484 Triplet_Loss 0.0000 Satellite_Acc: 0.9864  Drone_Acc: 0.9675
+Training complete in 14m 52s
+Epoch 39/199
+----------
+train Loss: 2.0213 Cls_Loss:0.6634 KL_Loss:1.3578 Triplet_Loss 0.0000 Satellite_Acc: 0.9861  Drone_Acc: 0.9711
+Training complete in 15m 15s
+Epoch 40/199
+----------
+train Loss: 2.0120 Cls_Loss:0.6613 KL_Loss:1.3506 Triplet_Loss 0.0000 Satellite_Acc: 0.9854  Drone_Acc: 0.9715
+Training complete in 15m 38s
+Epoch 41/199
+----------
+train Loss: 2.0334 Cls_Loss:0.6645 KL_Loss:1.3690 Triplet_Loss 0.0000 Satellite_Acc: 0.9836  Drone_Acc: 0.9725
+Training complete in 16m 1s
+Epoch 42/199
+----------
+train Loss: 2.0913 Cls_Loss:0.7128 KL_Loss:1.3785 Triplet_Loss 0.0000 Satellite_Acc: 0.9854  Drone_Acc: 0.9622
+Training complete in 16m 23s
+Epoch 43/199
+----------
+train Loss: 2.0723 Cls_Loss:0.6910 KL_Loss:1.3812 Triplet_Loss 0.0000 Satellite_Acc: 0.9864  Drone_Acc: 0.9654
+Training complete in 16m 46s
+Epoch 44/199
+----------
+train Loss: 2.0225 Cls_Loss:0.6526 KL_Loss:1.3699 Triplet_Loss 0.0000 Satellite_Acc: 0.9854  Drone_Acc: 0.9697
+Training complete in 17m 8s
+Epoch 45/199
+----------
+train Loss: 2.0981 Cls_Loss:0.7102 KL_Loss:1.3879 Triplet_Loss 0.0000 Satellite_Acc: 0.9864  Drone_Acc: 0.9708
+Training complete in 17m 31s
+Epoch 46/199
+----------
+train Loss: 2.0169 Cls_Loss:0.6503 KL_Loss:1.3666 Triplet_Loss 0.0000 Satellite_Acc: 0.9868  Drone_Acc: 0.9772
+Training complete in 17m 53s
+Epoch 47/199
+----------
+train Loss: 2.0857 Cls_Loss:0.6838 KL_Loss:1.4019 Triplet_Loss 0.0000 Satellite_Acc: 0.9872  Drone_Acc: 0.9740
+Training complete in 18m 16s
+Epoch 48/199
+----------
+train Loss: 2.0348 Cls_Loss:0.6567 KL_Loss:1.3780 Triplet_Loss 0.0000 Satellite_Acc: 0.9861  Drone_Acc: 0.9747
+Training complete in 18m 38s
+Epoch 49/199
+----------
+train Loss: 2.0859 Cls_Loss:0.6982 KL_Loss:1.3876 Triplet_Loss 0.0000 Satellite_Acc: 0.9879  Drone_Acc: 0.9733
+Training complete in 19m 0s
+Epoch 50/199
+----------
+train Loss: 2.0627 Cls_Loss:0.6670 KL_Loss:1.3957 Triplet_Loss 0.0000 Satellite_Acc: 0.9864  Drone_Acc: 0.9711
+Training complete in 19m 26s
+Epoch 51/199
+----------
+train Loss: 2.1176 Cls_Loss:0.7048 KL_Loss:1.4129 Triplet_Loss 0.0000 Satellite_Acc: 0.9882  Drone_Acc: 0.9711
+Training complete in 19m 51s
+Epoch 52/199
+----------
+train Loss: 2.1068 Cls_Loss:0.6945 KL_Loss:1.4124 Triplet_Loss 0.0000 Satellite_Acc: 0.9868  Drone_Acc: 0.9718
+Training complete in 20m 16s
+Epoch 53/199
+----------
+train Loss: 2.0501 Cls_Loss:0.6481 KL_Loss:1.4020 Triplet_Loss 0.0000 Satellite_Acc: 0.9889  Drone_Acc: 0.9807
+Training complete in 20m 39s
+Epoch 54/199
+----------
+train Loss: 2.0756 Cls_Loss:0.6758 KL_Loss:1.3998 Triplet_Loss 0.0000 Satellite_Acc: 0.9879  Drone_Acc: 0.9722
+Training complete in 21m 5s
+Epoch 55/199
+----------
+train Loss: 2.0810 Cls_Loss:0.6707 KL_Loss:1.4103 Triplet_Loss 0.0000 Satellite_Acc: 0.9872  Drone_Acc: 0.9818
+Training complete in 21m 31s
+Epoch 56/199
+----------
+train Loss: 2.1112 Cls_Loss:0.6879 KL_Loss:1.4233 Triplet_Loss 0.0000 Satellite_Acc: 0.9872  Drone_Acc: 0.9750
+Training complete in 21m 57s
+Epoch 57/199
+----------
+train Loss: 2.1057 Cls_Loss:0.6877 KL_Loss:1.4181 Triplet_Loss 0.0000 Satellite_Acc: 0.9832  Drone_Acc: 0.9772
+Training complete in 22m 23s
+Epoch 58/199
+----------
+train Loss: 2.1021 Cls_Loss:0.6797 KL_Loss:1.4224 Triplet_Loss 0.0000 Satellite_Acc: 0.9854  Drone_Acc: 0.9772
+Training complete in 22m 50s
+Epoch 59/199
+----------
+train Loss: 2.1259 Cls_Loss:0.6915 KL_Loss:1.4344 Triplet_Loss 0.0000 Satellite_Acc: 0.9861  Drone_Acc: 0.9754
+Training complete in 23m 16s
+Epoch 60/199
+----------
+train Loss: 2.1049 Cls_Loss:0.6838 KL_Loss:1.4211 Triplet_Loss 0.0000 Satellite_Acc: 0.9861  Drone_Acc: 0.9757
+Training complete in 23m 42s
+Epoch 61/199
+----------
+train Loss: 2.0994 Cls_Loss:0.6833 KL_Loss:1.4161 Triplet_Loss 0.0000 Satellite_Acc: 0.9857  Drone_Acc: 0.9765
+Training complete in 24m 8s
+Epoch 62/199
+----------
+train Loss: 2.0775 Cls_Loss:0.6842 KL_Loss:1.3933 Triplet_Loss 0.0000 Satellite_Acc: 0.9875  Drone_Acc: 0.9768
+Training complete in 24m 34s
+Epoch 63/199
+----------
+train Loss: 2.0763 Cls_Loss:0.6889 KL_Loss:1.3874 Triplet_Loss 0.0000 Satellite_Acc: 0.9897  Drone_Acc: 0.9825
+Training complete in 25m 1s
+Epoch 64/199
+----------
+train Loss: 2.0104 Cls_Loss:0.6570 KL_Loss:1.3534 Triplet_Loss 0.0000 Satellite_Acc: 0.9868  Drone_Acc: 0.9761
+Training complete in 25m 27s
+Epoch 65/199
+----------
+train Loss: 2.0110 Cls_Loss:0.6594 KL_Loss:1.3517 Triplet_Loss 0.0000 Satellite_Acc: 0.9857  Drone_Acc: 0.9779
+Training complete in 25m 53s
+Epoch 66/199
+----------
+train Loss: 2.0173 Cls_Loss:0.6754 KL_Loss:1.3419 Triplet_Loss 0.0000 Satellite_Acc: 0.9889  Drone_Acc: 0.9790
+Training complete in 26m 19s
+Epoch 67/199
+----------
+train Loss: 1.9982 Cls_Loss:0.6732 KL_Loss:1.3249 Triplet_Loss 0.0000 Satellite_Acc: 0.9875  Drone_Acc: 0.9772
+Training complete in 26m 46s
+Epoch 68/199
+----------
+train Loss: 1.9942 Cls_Loss:0.6753 KL_Loss:1.3189 Triplet_Loss 0.0000 Satellite_Acc: 0.9868  Drone_Acc: 0.9800
+Training complete in 27m 12s
+Epoch 69/199
+----------
+train Loss: 1.9188 Cls_Loss:0.6219 KL_Loss:1.2969 Triplet_Loss 0.0000 Satellite_Acc: 0.9879  Drone_Acc: 0.9829
+Training complete in 27m 38s
+Epoch 70/199
+----------
+train Loss: 1.9543 Cls_Loss:0.6552 KL_Loss:1.2991 Triplet_Loss 0.0000 Satellite_Acc: 0.9868  Drone_Acc: 0.9793
+Training complete in 28m 4s
+Epoch 71/199
+----------
+train Loss: 1.8906 Cls_Loss:0.6165 KL_Loss:1.2741 Triplet_Loss 0.0000 Satellite_Acc: 0.9872  Drone_Acc: 0.9790
+Training complete in 28m 30s
+Epoch 72/199
+----------
+train Loss: 1.8875 Cls_Loss:0.6219 KL_Loss:1.2656 Triplet_Loss 0.0000 Satellite_Acc: 0.9864  Drone_Acc: 0.9768
+Training complete in 28m 57s
+Epoch 73/199
+----------
+train Loss: 1.8976 Cls_Loss:0.6328 KL_Loss:1.2648 Triplet_Loss 0.0000 Satellite_Acc: 0.9868  Drone_Acc: 0.9815
+Training complete in 29m 23s
+Epoch 74/199
+----------
+train Loss: 1.8824 Cls_Loss:0.6291 KL_Loss:1.2533 Triplet_Loss 0.0000 Satellite_Acc: 0.9864  Drone_Acc: 0.9740
+Training complete in 29m 49s
+Epoch 75/199
+----------
+train Loss: 1.9097 Cls_Loss:0.6465 KL_Loss:1.2632 Triplet_Loss 0.0000 Satellite_Acc: 0.9875  Drone_Acc: 0.9772
+Training complete in 30m 16s
+Epoch 76/199
+----------
+train Loss: 1.8774 Cls_Loss:0.6249 KL_Loss:1.2524 Triplet_Loss 0.0000 Satellite_Acc: 0.9882  Drone_Acc: 0.9790
+Training complete in 30m 43s
+Epoch 77/199
+----------
+train Loss: 1.8621 Cls_Loss:0.6166 KL_Loss:1.2455 Triplet_Loss 0.0000 Satellite_Acc: 0.9861  Drone_Acc: 0.9832
+Training complete in 31m 9s
+Epoch 78/199
+----------
+train Loss: 1.7901 Cls_Loss:0.5788 KL_Loss:1.2113 Triplet_Loss 0.0000 Satellite_Acc: 0.9875  Drone_Acc: 0.9804
+Training complete in 31m 35s
+Epoch 79/199
+----------
+train Loss: 1.8035 Cls_Loss:0.5956 KL_Loss:1.2079 Triplet_Loss 0.0000 Satellite_Acc: 0.9864  Drone_Acc: 0.9800
+Training complete in 32m 1s
+Epoch 80/199
+----------
+train Loss: 1.7028 Cls_Loss:0.5012 KL_Loss:1.2016 Triplet_Loss 0.0000 Satellite_Acc: 0.9893  Drone_Acc: 0.9864
+Training complete in 32m 27s
+Epoch 81/199
+----------
+train Loss: 1.6530 Cls_Loss:0.4740 KL_Loss:1.1790 Triplet_Loss 0.0000 Satellite_Acc: 0.9897  Drone_Acc: 0.9889
+Training complete in 32m 53s
+Epoch 82/199
+----------
